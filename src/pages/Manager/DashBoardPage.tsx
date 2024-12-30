@@ -136,9 +136,7 @@ function DashBoardPage() {
                 className="select w-32 appearance-none border-none"
                 aria-label="select"
               >
-                <option disabled selected>
-                  Tháng này
-                </option>
+                <option disabled>Tháng này</option>
                 <option>Tháng 1</option>
                 <option>Tháng 2</option>
                 <option>Tháng 3</option>
